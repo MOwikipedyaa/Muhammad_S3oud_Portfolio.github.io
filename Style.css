@@ -1,0 +1,84 @@
+@font-face {
+    font-family: '18 Khebrat Musamim Bold';
+    src: url(Font/18\ Khebrat\ Musamim\ Bold.ttf) format('truetype');
+}
+
+body {
+    background-color: lightgray;
+  }
+  
+  h1 {
+    font-family: '18 Khebrat Musamim Bold', sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 65px;
+  }
+  .img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    border-radius: 250px;
+    width: 500px;
+    height: 500px;
+  }
+  p {
+    font-family: '18 Khebrat Musamim Bold', sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 65px;
+    }
+    .p2 {
+        font-family: '18 Khebrat Musamim Bold', sans-serif;
+        color: black;
+        text-align: center;
+        font-size: 30px;
+    }
+    .work_images {
+        border-radius: 50px;
+        width: 854px;
+        height: 480px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 5px;
+    }
+    .work_images2 {
+        border-radius: 50px;
+        width: 500px;
+        height: 500px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 5px;
+    }
+    .game_images {
+        border-radius: 50px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .game_images2 {
+        border-radius: 50px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 781px;
+        height: 781px;
+  }
+    .game_images3 {
+        border-radius: 50px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 781px;
+        height: 684px;
+}
+    .button {
+      font-family: '18 Khebrat Musamim Bold', sans-serif;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      font-size: 30px;
+      color: black;
+    }
